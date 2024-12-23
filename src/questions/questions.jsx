@@ -4,31 +4,29 @@ const parts = [
     {
         rus: "КАК -काक",
         hin: "कैसा , कैसी , कैसे",
-        img: "/images/nameCard/crete.jpg",
+        img: "/images/LanguagesbgImages/how.png",
+        link:"/questions/KAK"
+    }, {
+        rus: "Где-गद्दे",
+        hin: "कहाँ ?",
+        img: "/images/LanguagesbgImages/where.jpg",
         link:"/questions/KAK"
     }, {
         
-        rus: "КАК -काक",
-        hin: "कैसा , कैसी , कैसे",
-        img: "/images/nameCard/crete.jpg",
+        rus: "КТО-कतो",
+        hin: "कौन ?",
+        img: "/images/LanguagesbgImages/who.png",
         link:"/questions/KAK"
     }, {
         
-        rus: "КАК -काक",
-        hin: "कैसा , कैसी , कैसे",
-        img: "/images/nameCard/crete.jpg",
+        rus: "Сколько-स्कोलका ?",
+        hin: "कितना ,कितनी,कितने",
+        img: "/images/LanguagesbgImages/howMany.png",
         link:"/questions/KAK"
     }, {
-        
-        rus: "КАК -काक",
-        hin: "कैसा , कैसी , कैसे",
-        img: "/images/nameCard/crete.jpg",
-        link:"/questions/KAK"
-    }, {
-        
-        rus: "КАК -काक",
-        hin: "कैसा , कैसी , कैसे",
-        img: "/images/nameCard/crete.jpg",
+        rus: "Кем,С кем-केम , स्केम",
+        hin: "किसके साथ , किसके लिए",
+        img: "/images/LanguagesbgImages/withWhom.WEBP",
         link:"/questions/KAK"
     }
 ]
